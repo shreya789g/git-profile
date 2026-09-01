@@ -13,7 +13,6 @@ async function fetchdata(username){
         displaydata(user)
     } catch(error){
         console.log(error);
-        
     }
 }
 function displaydata(userdata){
